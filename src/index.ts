@@ -9,4 +9,4 @@ app.listen(PORT, (): void => {
   console.log(`Server Running here 👉 https://localhost:${PORT}`);
 });
 
-const test = 1;
+const test = 2;
